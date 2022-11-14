@@ -13,8 +13,13 @@ namespace Exercise
         {
             //new excercise1().func();
             //new excercise2().func();
-           // new excercise3().func();
-            new excercise4().func();
+            // new excercise3().func();
+            //new excercise4().func();
+            //new excercise5().func();
+            //new excercise6().func();
+            new excercise7().func();
+
+
 
 
             //---this ReadLine used for pause the cmd screen...
