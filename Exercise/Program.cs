@@ -17,7 +17,9 @@ namespace Exercise
             //new excercise4().func();
             //new excercise5().func();
             //new excercise6().func();
-            new excercise7().func();
+           // new excercise7().func();
+           // new excercise8().func();
+            new excercise9().func();
 
 
 
