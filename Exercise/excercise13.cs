@@ -14,7 +14,6 @@ namespace Exercise
         public void func()
         {
             List<int> numbers = new List<int>();
-            List<int> numbersCopy = new List<int>();
             List<int> uniqueNumbers = new List<int>();
 
             Console.WriteLine("continuously enter a number or type Quit to exit");
