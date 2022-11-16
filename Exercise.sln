@@ -5,6 +5,11 @@ VisualStudioVersion = 17.2.32516.85
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise", "Exercise\Exercise.csproj", "{CC1A60F2-ED31-4B1A-B1B9-ED28DE5C0057}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ALL TXT FILES", "ALL TXT FILES", "{A2F16767-6E2C-4306-9B3F-49F374BE395C}"
+	ProjectSection(SolutionItems) = preProject
+		file_1.txt = file_1.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
